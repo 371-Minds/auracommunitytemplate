@@ -6,7 +6,6 @@
 
 
 Standard Web App for Tech Communties. <br>
-[Demo](https://myaurapp.web.app/) <br>
 Version: 3.1.2
 
 ### Show some :heart: and :star: the repo to support the project
